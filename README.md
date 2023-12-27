@@ -39,10 +39,10 @@ Below is a screenshot of the finished app:
 ![An image of the finished working Planner App](./images/screencapture-127-0-0-1-5500-index-html-2023-12-27-17_00_14.png)
 
 URL to deployed application:
-https://github.com/vytautastv/PlannerAPI
+https://vytautastv.github.io/PlannerAPI/
 
 URL to GitHub repository:
-https://vytautastv.github.io/PlannerAPI/
+https://github.com/vytautastv/PlannerAPI
 
 ## License
 
