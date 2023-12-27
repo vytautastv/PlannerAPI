@@ -6,7 +6,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 This is a simple calendar application (utilizing JQuery, Local Storage, and Day.js) that allows a user to save events for each hour of the day. HTML and CSS are dynamically updated according to the time--the background colors of the time blocks are adjusted based upon the classification of the time event (past, present, or future.) The user inputs calendar items into the text area, and clicking the save buttons sets the items into local storage. The added calendar items persist on the page after refresh.
 
-The motivation for this app was to use any new skills learned during the front-end developer bootcamp. It will 
+The motivation for this app was to use any new skills learned during the front-end developer bootcamp. 
 
 ## User Story
 
